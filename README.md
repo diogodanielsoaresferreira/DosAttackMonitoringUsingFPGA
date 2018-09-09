@@ -7,5 +7,5 @@ When the packets are received, the FPGA uses concurrently several Bloom Filters 
 
 The implemented hash-function is https://github.com/pemb/siphash.
 
-Diogo Ferreira
+Diogo Ferreira  
 Luís Leira
